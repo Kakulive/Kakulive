@@ -2,8 +2,7 @@
 
 - 🤔 Currently looking for first job withing programming field
 - Techstack:
-- ![Java image](https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png | width=100)
-- <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="100" height="100">
+- <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="25">
 
 
 
