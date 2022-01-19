@@ -2,8 +2,8 @@
 
 - 🤔 Currently looking for first job withing programming field
 - Techstack:
-- <img height="20"src="https://logosvector.net/wp-content/uploads/2013/03/java-eps-vector-logo.png">
-- 
+- ![java.pdf](https://github.com/Kakulive/Kakulive/files/7901235/java.pdf)
+
 
 
 
