@@ -2,8 +2,7 @@
 
 - 🤔 Currently looking for first job withing programming field
 - Techstack:
-<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="100">
-<img src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" width="100">
+<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="100"><img src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" width="100">
 <img src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/spring_logo_2.png?1614082637" width="100">
 <img src="https://junit.org/junit4/images/junit5-banner.png" width="100">
 <img src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png" width="100">
