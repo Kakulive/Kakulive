@@ -1,4 +1,5 @@
-![Git - header](https://user-images.githubusercontent.com/79337205/150236084-bc5d41c6-7825-49ce-a26c-a1b191b9289f.png)
+![Header](https://user-images.githubusercontent.com/79337205/150238939-355c0950-4259-4233-911e-795608a947d7.jpg)
+
 
 🤔 Currently looking for first job withing programming field
 Techstack:
